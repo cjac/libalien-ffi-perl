@@ -1,0 +1,5 @@
+libalien-ffi-perl (0.14-1) unstable; urgency=low
+
+  * Initial Release. (Closes: #778547)
+
+ -- C.J. Collier <cjcollier@linuxfoundation.org>  Sat, 4 Jun 2016 20:08:19 -0400
